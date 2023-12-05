@@ -8,6 +8,13 @@ Major Depressive Disorder (MDD) and Bipolar Disorder (BD) are prevalent mental h
 
 Distinguishing between MDD and BD is crucial for effective treatment, yet conventional methods relying on questionnaires and psychiatric evaluations are subjective and prone to errors. This project aims to identify quantitative biomarkers using EEG signals, specifically focusing on 71 MDD and 71 BD patients. Symbolic Transfer Entropy (STE) is employed for feature extraction—a robust measure of information flow between different brain regions.
 
+## Data Set
+Database has 142 rows and 46 columns. 
+
+The first 71 rows belong to the patients with bipolar disorder (BD) and the remaining 71 rows belong to the patients with major depressive disorder (MDD). The first 45 columns are the features, and the last column is the label of the patients (1 for BD and 2 for MDD). 
+File BP-MDD attached is the database file.
+
+
 ## Methodology
 
 1. **Feature Extraction:** Symbolic Transfer Entropy (STE)
