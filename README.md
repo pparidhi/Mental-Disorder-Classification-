@@ -1,4 +1,4 @@
-# Mental-Disorder-Classification-
+# Mental_Disorder_Classification
 
 ## Overview
 
